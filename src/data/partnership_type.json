@@ -1,0 +1,54 @@
+[
+    {
+        "partnership_id":1,
+        "name":"Investigación"
+    },
+    {
+        "partnership_id":2,
+        "name":"Financiamiento"
+    },
+    {
+        "partnership_id":3,
+        "name":"Co-Desarrollo"
+    },
+    {
+        "partnership_id":4,
+        "name":"Prestación de Servicio"
+    },
+    {
+        "partnership_id":5,
+        "name":"Postgrado"
+    },
+    {
+        "partnership_id":6,
+        "name":"Validación"
+    },
+    {
+        "partnership_id":7,
+        "name":"Pasantías"
+    },
+    {
+        "partnership_id":8,
+        "name":"Redes"
+    },
+    {
+        "partnership_id":9,
+        "name":"Cooperación"
+    },
+    {
+        "partnership_id":10,
+        "name":"Capacitación"
+    },
+    {
+        "partnership_id":11,
+        "name":"Mentoría"
+    },
+    {
+        "partnership_id":12,
+        "name":"Política Pública"
+    },
+    {
+        "partnership_id":13,
+        "name":"Levantamiento de desafíos y necesidades"
+    }
+]

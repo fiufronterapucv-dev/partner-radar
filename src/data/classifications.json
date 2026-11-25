@@ -1,0 +1,46 @@
+[
+    {
+        "classification_id":1,
+        "name":"Ecosistema de Salud"
+    },
+    {
+        "classification_id":2,
+        "name":"Ecosistema de Innovación"
+    },
+    {
+        "classification_id":3,
+        "name":"Instituciones Públicas"
+    },
+    {
+        "classification_id":4,
+        "name":"Asociaciones Gremiales"
+    },
+    {
+        "classification_id":5,
+        "name":"Asociaciones de Pacientes"
+    },
+    {
+        "classification_id":6,
+        "name":"Organismos Internacionales"
+    },
+    {
+        "classification_id":7,
+        "name":"Empresas"
+    },
+    {
+        "classification_id":8,
+        "name":"Instituciones Sin Fines de Lucro"
+    },
+    {
+        "classification_id":9,
+        "name":"Instituciones de Educación Superior"
+    },
+    {
+        "classification_id":10,
+        "name":"Ecosistema de Innovación"
+    }
+    ,{
+        "classification_id":11,
+        "name":"Experto"
+    }
+]

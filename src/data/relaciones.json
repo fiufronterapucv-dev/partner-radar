@@ -1,0 +1,19 @@
+[
+  { "source": "inst-0", "target": "inst-1", "label": "Campos Clínicos" },
+  { "source": "inst-0", "target": "inst-2", "label": "Validación" },
+  { "source": "inst-0", "target": "inst-3", "label": "Financiamiento" },
+  { "source": "inst-0", "target": "inst-4", "label": "Co-Desarrollo" },
+  { "source": "inst-0", "target": "inst-6", "label": "Cooperación" },
+  { "source": "inst-0", "target": "inst-9", "label": "Investigación" },
+  { "source": "inst-0", "target": "inst-11", "label": "Política Pública" },
+  { "source": "inst-1", "target": "inst-5", "label": "Piloto Telemedicina" },
+  { "source": "inst-2", "target": "inst-5", "label": "Proveedor Tech" },
+  { "source": "inst-3", "target": "inst-4", "label": "Fondo Regional" },
+  { "source": "inst-4", "target": "inst-5", "label": "Incubación" },
+  { "source": "inst-4", "target": "inst-9", "label": "Transferencia" },
+  { "source": "inst-7", "target": "inst-1", "label": "Apoyo Pacientes" },
+  { "source": "inst-7", "target": "inst-10", "label": "Red Comunitaria" },
+  { "source": "inst-8", "target": "inst-11", "label": "Mesa Técnica" },
+  { "source": "inst-12", "target": "inst-2", "label": "Comité Ética" },
+  { "source": "inst-12", "target": "inst-9", "label": "Asesoría" }
+]

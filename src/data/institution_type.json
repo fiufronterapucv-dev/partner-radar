@@ -1,0 +1,10 @@
+[
+    {
+        "institution_type_id":1,
+        "tipo":"publica"
+    },
+    {
+        "institution_type_id":2,
+        "tipo":"privada"
+    }
+]
